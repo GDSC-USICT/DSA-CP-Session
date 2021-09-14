@@ -29,16 +29,10 @@
 
 # Credits
 
-   <summary><strong>Poster</strong></summary>
+   <summary><strong>Contest and Upsolving Posters</strong></summary>
     
    - [Rahul Gandhi](https://github.com/RGTechno/)
    - [Sarthak Khandelwal](https://github.com/HellVolhard07)
-  
-
-   <summary><strong>Upsolving Session</strong></summary>
-   
-   - [Dhruv Pasricha](https://github.com/DhruvPasricha)
-   
   
 
 <summary><strong>Prepared by</strong></summary>
@@ -46,11 +40,20 @@
    - [Dhruv Pasricha](https://github.com/DhruvPasricha)
    - [Tushar Khanduri](https://github.com/Tushar-K24)
 
+   <summary><strong>Upsolving Session</strong></summary>
+   
+   - [Dhruv Pasricha](https://github.com/DhruvPasricha)
+  
+  <summary><strong>Winners Poster</strong></summary>
+    
+   - [Himesh Nayak](https://github.com/himeshnayak)
 
-   <summary><strong>Writers</strong></summary>
+  <summary><strong>Writers</strong></summary>
     
    - [Dhruv Pasricha](https://github.com/DhruvPasricha)
    - [Tushar Khanduri](https://github.com/Tushar-K24)
 
+   ### Special Thanks to the Content Writing and PR Team !
 <hr>
 
+# TEAM GDSC USICT
