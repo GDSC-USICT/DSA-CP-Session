@@ -1,4 +1,4 @@
- ## ***<_CodeNite_/> - Game of Code***
+## ***<_CodeNite_/> - Game of Code***
 
 <hr>
 
@@ -6,13 +6,12 @@
 
 <hr>
 
-#Winners
+# Winners
 
 ![Poster](./Resources/winners.jpeg)
-
-
 <hr>
-#Solutions
+
+# Solutions
    - [Angry Professor](./A_Angry_Professor_at_USICT.cpp)
    - [Unique Couples](./B_Unique_Couples.cpp)
    - [Odd Even Even Odd](./C_Odd_Even_Even_Odd.cpp)
@@ -21,14 +20,14 @@
    - [Range Sum](./F_Range_Sum.cpp)
 <hr>
 
-#Links
- - [Contest Link](https://codeforces.com/contestInvitation/619ef800b4629f4d2e7b687b076a78eea55e552b)
- - [Upsolving Session](https://www.youtube.com/watch?v=csVelNP7y54)
- - [Upsolving Session PDF](./Resources/Upsolving%20Session%20pdf.pdf)
+# Links
+- [Contest Link](https://codeforces.com/contestInvitation/619ef800b4629f4d2e7b687b076a78eea55e552b)
+- [Upsolving Session](https://www.youtube.com/watch?v=csVelNP7y54)
+- [Upsolving Session PDF](./Resources/Upsolving%20Session%20pdf.pdf)
 
 <hr>
 
-#Credits
+# Credits
 
    <summary><strong>Poster</strong></summary>
     
@@ -37,21 +36,20 @@
   
 
    <summary><strong>Upsolving Session</strong></summary>
-    
+   
    - [Dhruv Pasricha](https://github.com/DhruvPasricha)
+   
   
 
-<summary><strong>Prepared By</strong></summary>
+<summary><strong>Prepared by</strong></summary>
     
    - [Dhruv Pasricha](https://github.com/DhruvPasricha)
-  
    - [Tushar Khanduri](https://github.com/Tushar-K24)
 
 
    <summary><strong>Writers</strong></summary>
     
    - [Dhruv Pasricha](https://github.com/DhruvPasricha)
-  
    - [Tushar Khanduri](https://github.com/Tushar-K24)
 
 <hr>
