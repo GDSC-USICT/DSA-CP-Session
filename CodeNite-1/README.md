@@ -12,12 +12,12 @@
 <hr>
 
 # Solutions
-   - [Angry Professor](./A_Angry_Professor_at_USICT.cpp)
-   - [Unique Couples](./B_Unique_Couples.cpp)
-   - [Odd Even Even Odd](./C_Odd_Even_Even_Odd.cpp)
-   - [Bar Pattern](./D_Bar_Pattern.cpp)
-   - [Money double in 21 days ?](./E_Money_double_in_21_days_.cpp)
-   - [Range Sum](./F_Range_Sum.cpp)
+   - Angry Professor : [C++](./Solutions/C++/A_Angry_Professor_at_USICT.cpp)  ,  [Python](./Solutions/Python/A_Angry_Professor_at_USICT.py)
+   - Unique Couples : [C++](./Solutions/C++/B_Unique_Couples.cpp)  ,  [Python](./Solutions/Python/B_Unique_Couples.py)
+   - Odd Even Even Odd : [C++](./Solutions/C++/C_Odd_Even_Even_Odd.cpp)  ,  [Python](./Solutions/C++/C_Odd_Even_Even_Odd.cpp)
+   - Bar Pattern : [C++](./Solutions/C++/D_Bar_Pattern.cpp)  ,  [Python](./Solutions/Python/D_Bar_Pattern.py)
+   - Money double in 21 days ? : [C++](./Solutions/C++/E_Money_double_in_21_days_.cpp)  ,  [Python](./Solutions/Python/E_Money_double_in_21_days_.py)
+   - Range Sum : [C++](./Solutions/C++/F_Range_Sum.cpp)  ,  [Python](./Solutions/Python/F_Range_Sum.py)
 <hr>
 
 # Links
