@@ -1,3 +1,7 @@
+/**
+ * @author [Dhruv Pasricha](https://github.com/DhruvPasricha)
+ */
+
 #include <stdio.h>
 
 int main()
